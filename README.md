@@ -5,4 +5,4 @@ Better version of tibernet, built from the ground up
 - [circus-real](https://github.com/circus-real)
 - [manSlayer16](https://github.com/manSlayer16)
 ### Inspiration
-- Inspired by [tibernet](ligmaspoons.tk) by [yuckdevchan](https://github.com/yuckdevchan)
+- Inspired by [tibernet](https://ligmaspoons.tk/) by [yuckdevchan](https://github.com/yuckdevchan)
