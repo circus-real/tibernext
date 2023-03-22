@@ -5,4 +5,5 @@ body {
 h1, p {
   font-family: arial
   color: darkred
+  text-decoration: underline
 }
