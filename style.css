@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue
+  background-color: lightblue;
 }
 
 h1 {
-  font-family: arial
-  color: darkred
-  text-decoration: underline
+  font-family: arial;
+  color: darkred;
+  text-decoration: underline;
 }
 
 abbr {
-  color: green
+  color: green;
 }
