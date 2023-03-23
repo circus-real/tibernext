@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
 }
 
-h1 {
+h1, h2 {
   font-family: arial;
   color: darkred;
 }
