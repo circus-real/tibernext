@@ -2,12 +2,15 @@ body {
   background-color: lightblue;
 }
 
-h1, p {
+h1 {
   font-family: arial;
   color: darkred;
-  text-decoration: underline;
 }
 
 abbr {
   color: green;
+}
+
+p, ul {
+  font-family: arial;
 }
