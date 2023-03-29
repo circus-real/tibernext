@@ -1,2 +1,5 @@
 
-button = document.GetElementById("btn")
+btn = document.GetElementById("btn")
+
+ {
+}
