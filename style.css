@@ -1,9 +1,10 @@
 body {
   background-color: lightblue;
+  font-family: 
 }
 
 h1, h2 {
-  font-family: arial;
+  font-family: palitino linetype;
   color: darkred;
 }
 
@@ -12,5 +13,5 @@ abbr {
 }
 
 p, ul {
-  font-family: arial;
+  font-family: brandon grotesque;
 }
