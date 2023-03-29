@@ -1,5 +1,4 @@
 # Tibernext
-Better version of tibernet, built from the ground up (that means no plagiarism, yuckdevchan)
 ## Credits
 ### Authors
 - [circus-real](https://github.com/circus-real)
