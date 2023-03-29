@@ -1,1 +1,2 @@
 
+button = document.GetElementById("btn")
